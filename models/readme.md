@@ -1,9 +1,8 @@
 models
 
-#### 
-https://github.com/dusty-nv/jetson-inference
-Jetson suitable model(Inference)
+#### Jetson suitable model(Inference)
+Link : https://github.com/dusty-nv/jetson-inference
 
-#### 
-https://towardsdatascience.com/detecting-pedestrians-and-bikers-on-a-drone-with-jetson-xavier-93ce92e2c597
-Retinanet Detection on Jetson Xavier(Inference)
+#### Retinanet Detection on Jetson Xavier(Inference)
+Link : https://towardsdatascience.com/detecting-pedestrians-and-bikers-on-a-drone-with-jetson-xavier-93ce92e2c597
+
