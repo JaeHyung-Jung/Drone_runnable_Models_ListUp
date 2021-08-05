@@ -8,6 +8,9 @@
 
 위의 문제를 해결하기위해 Stanford대학교에서 공개한 Stanford Drone Dataset(6Classes labeled)으로 학습하는 방법이 있음 
 
+# Datasets 
+- Stanford Drone Dataset
+
 # models
 
 #### Jetson suitable model(Inference)
@@ -19,23 +22,26 @@ Link : https://towardsdatascience.com/detecting-pedestrians-and-bikers-on-a-dron
 #### FasterRCNN Drone Detection(Inference, Chinese)
 Link : https://github.com/zhpmatrix/VisDrone2018
 
-#### 
-Link : 
+#### YOLO Autonomous Drone - Deep Learning Person Detection
+Link : https://github.com/durner/yolo-autonomous-drone
 
-#### 
-Link : 
+#### Drone Realtime_Detection (Yolo, 경량)
+Link : https://github.com/carlosfab/drone_object_detection
 
-#### 
-Link : 
+#### Passive RF Drone Detection for the Georgia Tech Police Department
+Link : https://github.com/tesorrells/RF-Drone-Detection
 
-#### 
-Link : 
+#### SpotNet
+Link : https://github.com/hu64/SpotNet
 
-#### 
-Link : 
+#### ZoominNet(newer model(2021))
+Link : https://github.com/qaz670756/ZoomInNet-cross-scale-distillation
 
-#### 
-Link : 
+#### Keras Retinanet(HighQaulity, Recommeded)
+Link : https://github.com/huma-teknofest/Keras-RetinaNet-for-Teknofest-2019
+
+#### GapFlyPt Drone Detection(GoodQuality, not recommended because of License)
+Link : https://github.com/prgumd/GapFlyt
 
 #### 
 Link : 
