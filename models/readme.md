@@ -10,6 +10,7 @@
 
 # Datasets 
 - Stanford Drone Dataset
+- UAVDT_Dataset
 
 # models
 
