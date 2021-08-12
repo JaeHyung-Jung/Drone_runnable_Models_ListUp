@@ -13,6 +13,9 @@
 - UAVDT_Dataset
 - VisDrone(YYYY)
 
+# model 좋은거(official)
+https://paperswithcode.com/sota/object-detection-on-uavdt
+
 # models
 
 #### Jetson suitable model(Inference)
