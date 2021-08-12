@@ -33,7 +33,7 @@ Link : https://github.com/carlosfab/drone_object_detection
 #### Passive RF Drone Detection for the Georgia Tech Police Department
 Link : https://github.com/tesorrells/RF-Drone-Detection
 
-#### SpotNet
+### SpotNet
 Link : https://github.com/hu64/SpotNet
 
 #### ZoominNet(newer model(2021))
