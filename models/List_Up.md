@@ -19,11 +19,11 @@
 
 ### RN-VID : https://github.com/hu64/RN-VID (Rank 2 on UAVDT)
 
-### R-FCN :
+### R-FCN : https://github.com/daijifeng001/R-FCN
 
-### SSD :
+### SSD : https://github.com/lufficc/SSD
 
-### Faster-RCNN :
+### Faster-RCNN : https://github.com/rbgirshick/py-faster-rcnn
 
 ### RON :
 
