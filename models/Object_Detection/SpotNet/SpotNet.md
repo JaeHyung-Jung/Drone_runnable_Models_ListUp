@@ -33,8 +33,12 @@ Overview of SpotNet: the input image first passes through a double-stacked hourg
 
 
 ```text
-3. Download pretrained model 
-Link : https://polymtlca0-my.sharepoint.com/:f:/g/personal/hughes_perreault_polymtl_ca/EhqSkfDIJ-JBh9_YhCrPQrEBocvfP6BIucODKdcNjZzlcA?e=niahaB
+3. 
+```
+
+
+```text
+4. 
 ```
 
 
@@ -47,10 +51,7 @@ Link : https://polymtlca0-my.sharepoint.com/:f:/g/personal/hughes_perreault_poly
 2. 
 ```
 
-
-```text
-2. 
-```
++++ Pretrained model Link :  https://polymtlca0-my.sharepoint.com/:f:/g/personal/hughes_perreault_polymtl_ca/EhqSkfDIJ-JBh9_YhCrPQrEBocvfP6BIucODKdcNjZzlcA?e=niahaB
 
 
 #### License
