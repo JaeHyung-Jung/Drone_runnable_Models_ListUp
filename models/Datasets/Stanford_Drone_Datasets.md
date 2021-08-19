@@ -8,7 +8,7 @@
 This Data is a picture of normal Street with [Pedestrian, Bicylist, Vehicles(car, ...)]
 
 
-#### Original file size is 66GB, so use reduced size(2GB)
+### Original file size is 66GB, so recommned to use reduced size(2GB)
 
 #### Original Stanford Drone Dataset Link(66GB) : https://cvgl.stanford.edu/projects/uav_data/   
 #### Reduced Dataset Link(2GB) : https://www.kaggle.com/aryashah2k/stanford-drone-dataset   
