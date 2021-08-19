@@ -13,7 +13,7 @@
 - UAVDT_Dataset
 - VisDrone(YYYY)
 
-# 검증된 model
+# 검증된 model(몇몇 model은 instance segmentation기능도 포함하고있음)
 ### SpotNet : https://github.com/hu64/SpotNet (Rank 1 on UAVDT)
   * 오류 수정중 (torch.utils.ffi import하는 과정에서 depcrecate오류가남 DCNv2의 오류이고 https://github.com/xingyizhou/CenterNet/issues/7를 참고해서 해결할수있을듯)
 
