@@ -27,6 +27,32 @@ Overview of SpotNet: the input image first passes through a double-stacked hourg
 1. git clone https://github.com/hu64/SpotNet.git
 ```
 
+```text
+2. install 'requirements.txt' (opencv-python, Cython, numba, progress, matplotlib, easydict, scipy)
+```
+
+
+```text
+3. Download pretrained model 
+Link : https://polymtlca0-my.sharepoint.com/:f:/g/personal/hughes_perreault_polymtl_ca/EhqSkfDIJ-JBh9_YhCrPQrEBocvfP6BIucODKdcNjZzlcA?e=niahaB
+```
+
+
+```text
+2. 
+```
+
+
+```text
+2. 
+```
+
+
+```text
+2. 
+```
+
+
 #### License
 MIT License
 
