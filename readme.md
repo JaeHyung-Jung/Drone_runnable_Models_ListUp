@@ -6,6 +6,6 @@ Found about 20 models for train & inference the data of drone, Five models out o
   * Simple logic of Model
   * Start-up Guide
 
-#### To do if can(`21.8.21 ~ 8.27) 
+#### To do plan if can(`21.8.21 ~ 8.27) 
  * Write data inferencing code that can be used only by changing the backbone
  
