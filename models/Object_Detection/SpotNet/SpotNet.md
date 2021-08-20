@@ -40,19 +40,17 @@ pip install -r requirements.txt #opencv-python, Cython, numba, progress, matplot
 ```text
 4. cd src && python demo.py
 ```
-
-```text
 If you see errors like "ModuleNotFoundError : No module named '_ext', then
+```text
 5-1. build nms
 cd SpotNet/'object detection'/src/lib/external
 #python setup.py install
 python setup.py build_ext --inplace
 ```
 
-
+Clone and build original DCN2 
 ```text
-5-2. Clone and build original DCN2 
-cd SpotNet/'object detection/src/lib/models/networks
+5-2. cd SpotNet/'object detection/src/lib/models/networks
 rm -rf DCNv2
 git clone https://github.com/CharlesShang/DCNv2
 cd DCNv2
