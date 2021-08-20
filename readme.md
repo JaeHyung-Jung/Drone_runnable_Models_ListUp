@@ -1,5 +1,7 @@
 ###  This repository is created for Listup the models(object_detection) in Jetson Embedded System.
 
+### Found about 20 models for inference data of drone, Five models out of 20 are selected based on accuracy and usability.
+
 #### List Components
   * Benchmark table with Accuracy per Model(ex : Yolo, Faster-RCNN, etc.)
   * Simple logic of Model
