@@ -22,7 +22,7 @@ Overview of SpotNet: the input image first passes through a double-stacked hourg
 |Faster-RCNN|	22.32%|
 |RON	|21.59%|
 
-#### Train & Test 
+#### Test 
 ```text
 1. git clone https://github.com/hu64/SpotNet.git
 ```
