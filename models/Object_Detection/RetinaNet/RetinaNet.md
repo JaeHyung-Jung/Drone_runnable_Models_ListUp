@@ -1,5 +1,6 @@
 # RetinaNet
-This model uses Keras, Tensorflow so there can be some errors but choose this model because of quality.
+This model uses Keras, Tensorflow so there can be some errors but chose this model because of quality.
+Link : https://github.com/huma-teknofest/Keras-RetinaNet-for-Teknofest-2019
 
 ## Start-up
 1) Create a conda virtual environment and activate it.
