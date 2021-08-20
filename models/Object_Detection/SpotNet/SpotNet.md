@@ -50,7 +50,7 @@ python setup.py build_ext --inplace
 
 Clone and build original DCN2 
 ```text
-5-2. cd SpotNet/'object detection/src/lib/models/networks
+5-2. cd SpotNet/'object detection'/src/lib/models/networks
 rm -rf DCNv2
 git clone https://github.com/CharlesShang/DCNv2
 cd DCNv2
