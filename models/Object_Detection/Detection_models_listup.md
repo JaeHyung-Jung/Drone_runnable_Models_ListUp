@@ -8,10 +8,16 @@
 
 위의 문제를 해결하기위해 드론에 적합한 dataset으로 학습 
 
+
+
+
 # Datasets 
 - UA-DETRAC(commonly used)
 - UAVDT_Dataset(commonly used)
 - Stanford Drone Dataset
+
+
+
 
 # 검증된 model(BenchMarked on )
 ### SpotNet : https://github.com/hu64/SpotNet (Rank 1 on UAVDT)
@@ -26,6 +32,8 @@
 ### Faster-RCNN : https://github.com/rbgirshick/py-faster-rcnn
 
 ### RON :
+
+
 
 
 # models
