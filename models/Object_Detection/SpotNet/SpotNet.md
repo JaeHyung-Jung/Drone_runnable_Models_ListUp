@@ -28,27 +28,49 @@ Overview of SpotNet: the input image first passes through a double-stacked hourg
 ```
 
 ```text
-2. install 'requirements.txt' (opencv-python, Cython, numba, progress, matplotlib, easydict, scipy)
+activate v-env with codes below
+2. conda activate
+```
+
+```text
+3. cd 'object detection' &&
+pip install -r requirements.txt #opencv-python, Cython, numba, progress, matplotlib, easydict, scipy
+```
+
+```text
+4. cd src && python demo.py
+```
+
+```text
+If you see errors like "ModuleNotFoundError : No module named '_ext', then
+5-1. build nms
+cd SpotNet/'object detection'/src/lib/external
+#python setup.py install
+python setup.py build_ext --inplace
 ```
 
 
 ```text
-3. 
+5-2. Clone and build original DCN2 
+cd SpotNet/'object detection/src/lib/models/networks
+rm -rf DCNv2
+git clone https://github.com/CharlesShang/DCNv2
+cd DCNv2
+
+vim src/cuda/dcn_v2_cuda.cu
+"""
+# extern THCState *state;
+THCState *state = at::globalContext().lazyInitCUDA();
+"""
+
+python setup.py build develop
 ```
 
-
 ```text
-4. 
-```
-
-
-```text
-2. 
-```
-
-
-```text
-2. 
+6. test
+cd CenterNet/'object detection'/src
+python demo.py ctdet --demo ../images/17790319373_bd19b24cfc_k.jpg --load_model ../models/ctdet_coco_dla_2x.pth --debug 2
+python demo.py multi_pose --demo ../images/17790319373_bd19b24cfc_k.jpg --load_model ../models/multi_pose_dla_3x.pth --debug 2
 ```
 
 +++ Pretrained model Link :  https://polymtlca0-my.sharepoint.com/:f:/g/personal/hughes_perreault_polymtl_ca/EhqSkfDIJ-JBh9_YhCrPQrEBocvfP6BIucODKdcNjZzlcA?e=niahaB
