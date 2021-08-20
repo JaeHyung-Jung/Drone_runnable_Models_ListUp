@@ -1,7 +1,7 @@
 # UA-DETRAC_Datset
 
 ## Dataset Example :
-![uavdt](https://user-images.githubusercontent.com/79160507/130037466-9cc8b6cf-39fa-406e-860d-265b6e5282f3.JPG)
+![image](https://user-images.githubusercontent.com/79160507/130206844-a99ac438-ffc9-4fac-9c85-56f67cfbabf6.png)
 
 ## UA-DETRAC_Datset Download Link
 ## Data Link : https://detrac-db.rit.albany.edu/download
