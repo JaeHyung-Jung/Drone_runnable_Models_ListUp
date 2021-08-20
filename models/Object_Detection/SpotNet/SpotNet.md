@@ -27,8 +27,8 @@ Overview of SpotNet: the input image first passes through a double-stacked hourg
 1. git clone https://github.com/hu64/SpotNet.git
 ```
 
-```text
 activate v-env with codes below
+```text
 2. conda activate
 ```
 
