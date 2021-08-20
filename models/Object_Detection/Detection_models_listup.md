@@ -6,7 +6,7 @@
 => COCO, PascalVOC같은 데이터셋으로 학습된 일반적인 모델(YOLO,SSD)는 Drone에서 Detect를위해 사용하기 적합하지않다.   
 위의 데이터셋과 드론에서 Inference하는 이미지는 드론의 높은고도에서 촬영되는 이미지의 특성상 찾고자하는 객체의 형태가 다르기 때문.
 
-위의 문제를 해결하기위해 드론에 적합한 dataset으로 학습 
+위의 문제를 해결하기위해 드론에 적합한 dataset으로 학습         
 
 
 
@@ -14,7 +14,7 @@
 # Datasets 
 - UA-DETRAC(commonly used)
 - UAVDT_Dataset(commonly used)
-- Stanford Drone Dataset
+- Stanford Drone Dataset       
 
 
 
@@ -33,7 +33,7 @@
 
 ### RON :
 
-
+       
 
 
 # models
