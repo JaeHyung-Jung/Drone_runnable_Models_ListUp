@@ -1,4 +1,5 @@
 # D2Det
+(Link : https://github.com/JialeCao001/D2Det)
 
 ## Installation
 ### Requirements
@@ -53,5 +54,3 @@ python tools/test.py configs/faster_rcnn_r50_fpn_1x.py \
 |D2Det	|ResNet101	|24 epoch	|object detection	|44.9 (box)	|45.4 (box)	|[Resnet101](https://drive.google.com/open?id=14Cw9Y3vSdirkR3xLcb6F6H1hHr3qzLNj)|
 |D2Det	|ResNet101-DCN	|24 epoch	|object detection	|46.9 (box)	|47.5 (box)	|[Resnet101-DCN](https://drive.google.com/open?id=1jDeAj_rMKLMf64BGwqiysis9IyZzTQ6w)|
 |D2Det	|ResNet101	|24 epoch	|instance segmentation	|39.8 (mask)	|40.2 (mask)	|[Resnet101](https://drive.google.com/open?id=14Cw9Y3vSdirkR3xLcb6F6H1hHr3qzLNj)|
-
-### Reference Link : https://github.com/JaeHyung-Jung/D2Det
