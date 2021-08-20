@@ -37,7 +37,10 @@ main_dir
 
 ++ Pretrained Model(Resnet50) ## This link includes Small Data(Snapshots)
 [Pretrained](https://drive.google.com/drive/folders/1UQ-QpEN_iw01bYSj2u0k8bepWpjmpxye)
-
 Download pretrained model(.h5) and then locate it below diretory 'retinanet'
+
+
+++ training procedue : [Retinanet_Link](https://github.com/fizyr/keras-retinanet)
+
 
 
