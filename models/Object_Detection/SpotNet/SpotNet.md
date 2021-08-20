@@ -1,5 +1,5 @@
 # SpotNet
-SpotNet acheived the 'SOTA' in UAVDT, UA-DETRAC (Link : https://github.com/hu64/SpotNet)
+SpotNet acheived the 'SOTA' in UAVDT, UA-DETRAC (Link : https://github.com/hu64/SpotNet)   
 File size is too big to upload. So use git clone
 
 ## Paper link : https://arxiv.org/abs/2002.05540
