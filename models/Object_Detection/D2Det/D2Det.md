@@ -46,4 +46,12 @@ python tools/test.py configs/faster_rcnn_r50_fpn_1x.py \
     --show
 ```
 
+## Results(BenchMark)
+|name	|backbone	|iteration	|task	|validation	|test-dev	|download|
+|---|---|---|---|---|---|---|
+|D2Det	|ResNet50	|24 epoch	|object detection	|43.7 (box)	|43.9 (box)	|model|
+|D2Det	|ResNet101	|24 epoch	|object detection	|44.9 (box)	|45.4 (box)	|model|
+|D2Det	|ResNet101-DCN	|24 epoch	|object detection	|46.9 (box)	|47.5 (box)	|model|
+|D2Det	|ResNet101	|24 epoch	|instance segmentation	|39.8 (mask)	|40.2 (mask)	|model|
+
 ### Reference Link : https://github.com/JaeHyung-Jung/D2Det
