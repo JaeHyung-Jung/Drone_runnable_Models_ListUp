@@ -15,7 +15,7 @@
 
 # 검증된 model(BenchMarked on )
 ### SpotNet : https://github.com/hu64/SpotNet (Rank 1 on UAVDT)
-  * 오류 수정중 (torch.utils.ffi import하는 과정에서 depcrecate오류가남 DCNv2의 오류이고 https://github.com/xingyizhou/CenterNet/issues/7를 참고해서 해결할수있을듯)
+  * 오류 수정중 (torch.utils.ffi import하는 과정에서 depcrecate오류가남 DCNv2의 오류이고 https://github.com/xingyizhou/CenterNet/issues/7 를 참고하여 DCNv2의 make해줘야함)
 
 ### RN-VID : https://github.com/hu64/RN-VID (Rank 2 on UAVDT)
 
