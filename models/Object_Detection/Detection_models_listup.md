@@ -64,9 +64,3 @@ Link : https://github.com/huma-teknofest/Keras-RetinaNet-for-Teknofest-2019
 
 #### GapFlyPt Drone Detection(GoodQuality, not recommended because of License)
 Link : https://github.com/prgumd/GapFlyt
-
-#### 
-Link : 
-
-#### 
-Link : 
