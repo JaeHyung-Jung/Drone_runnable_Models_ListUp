@@ -56,8 +56,9 @@ python tools/test.py configs/faster_rcnn_r50_fpn_1x.py \
 |D2Det	|ResNet101	|24 epoch	|instance segmentation	|39.8 (mask)	|40.2 (mask)	|[Resnet101](https://drive.google.com/open?id=14Cw9Y3vSdirkR3xLcb6F6H1hHr3qzLNj)|
 
 
-## Results with UAVDT dataset.
+## Inference Results with UAVDT dataset.
 ![UAVDT_D2Det](https://user-images.githubusercontent.com/79160507/131081442-0bcac618-1aa8-4b44-8d54-c35302f32db2.PNG)
 
 ![UAVDT_D2Det2](https://user-images.githubusercontent.com/79160507/131081445-ede4dbda-6637-4b90-8f08-65e0796f1031.PNG)
+
 Inference backbone model : Resnet101, AP : 47.4
