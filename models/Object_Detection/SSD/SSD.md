@@ -68,7 +68,7 @@ the option '-d' is for choosing dataset, '-s' for reshaped image size(300 || 512
 ```
 
 ## Inference Results with UAVDT17 dataset![LRFNet_benchmark]![LRFNet_benchmark]
-![UAVDT_LRFnet](https://user-images.githubusercontent.com/79160507/131087394-b863315e-0534-4e50-8d13-cfe643d913a8.PNG)
+![UAVDT_LRFnet](https://user-images.githubusercontent.com/79160507/131087394-b863315e-0534-4e50-8d13-cfe643d913a8.PNG)   
 Backbone : VGG16 , AP : 37.81
 
 ## UAVDT-BenchMark
