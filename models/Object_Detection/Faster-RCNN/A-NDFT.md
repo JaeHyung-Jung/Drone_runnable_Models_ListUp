@@ -54,6 +54,10 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python trainval_net_monitor.py --cuda --mGPUs --gam
 
 #### ++) Download Pretrained Model : [Faster-RCNN_pretrained](https://drive.google.com/file/d/1rxqr0Cq0y9cXhdWyNd_R_8cd68exD1wn/view?usp=sharing)
 
+### Inference Results with UAVDT
+![NDFT-UAVDT](https://user-images.githubusercontent.com/79160507/131089097-b4afa2ef-5d00-4e35-b3fc-a50347afa9a2.PNG)
+Backbone : FasterRCNN, baseline : A+V+W (each A,V,W uses different 'γ1,γ2,γ3' values for better performance.)
+
 #### Citation(Original Code : UAV-NDFT)
 ```text
 @InProceedings{Lee_2021_CVPR_Workshops,
