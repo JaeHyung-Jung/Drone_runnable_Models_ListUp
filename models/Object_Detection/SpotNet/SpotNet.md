@@ -74,6 +74,14 @@ python demo.py multi_pose --demo ../images/17790319373_bd19b24cfc_k.jpg --load_m
 
 +++ Pretrained model Link :  https://polymtlca0-my.sharepoint.com/:f:/g/personal/hughes_perreault_polymtl_ca/EhqSkfDIJ-JBh9_YhCrPQrEBocvfP6BIucODKdcNjZzlcA?e=niahaB
 
+## Inference Results with UA-DETRAC data
+![Spotnet_UADETRAC](https://user-images.githubusercontent.com/79160507/131088374-4d265a66-521c-495a-9f98-a16f4134eec7.PNG)
+
+## Inference Results with UAVDT data
+![Spotnet-UAVDT](https://user-images.githubusercontent.com/79160507/131088402-b1c8dceb-dbf5-4859-8ca1-0d6efa4ab302.PNG)
+
+## UA-DETRAC BenchMark 
+![Spotnet_Benchmark](https://user-images.githubusercontent.com/79160507/131088571-007f5087-375e-483b-bd9b-6c59403dd659.PNG)
 
 #### License
 MIT License
