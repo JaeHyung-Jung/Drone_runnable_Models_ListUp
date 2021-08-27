@@ -64,4 +64,4 @@ python tools/test.py configs/faster_rcnn_r50_fpn_1x.py \
 Backbone model : Resnet101, AP : 47.4
 *black regions are ignored.
 
-Reference : D2Det paper (https://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_D2Det_Towards_High_Quality_Object_Detection_and_Instance_Segmentation_CVPR_2020_paper.pdf)
+### Reference : D2Det paper (https://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_D2Det_Towards_High_Quality_Object_Detection_and_Instance_Segmentation_CVPR_2020_paper.pdf)
