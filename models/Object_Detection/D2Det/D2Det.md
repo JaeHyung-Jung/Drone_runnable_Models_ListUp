@@ -61,4 +61,4 @@ python tools/test.py configs/faster_rcnn_r50_fpn_1x.py \
 
 ![UAVDT_D2Det2](https://user-images.githubusercontent.com/79160507/131081445-ede4dbda-6637-4b90-8f08-65e0796f1031.PNG)
 
-Inference backbone model : Resnet101, AP : 47.4
+Backbone model : Resnet101, AP : 47.4
