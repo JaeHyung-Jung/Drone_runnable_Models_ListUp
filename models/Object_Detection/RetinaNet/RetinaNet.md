@@ -1,5 +1,6 @@
 # RetinaNet
 This model uses Keras, Tensorflow so there can be some errors but chose this model because of quality.
+This model can also inference on Video.
 Link : https://github.com/huma-teknofest/Keras-RetinaNet-for-Teknofest-2019
 
 ## Start-up
@@ -40,8 +41,10 @@ main_dir
 [Pretrained](https://drive.google.com/drive/folders/1UQ-QpEN_iw01bYSj2u0k8bepWpjmpxye)
 Download pretrained model(.h5) and then locate it below diretory 'retinanet'
 
-
 ++ training procedue : [Retinanet_Link](https://github.com/fizyr/keras-retinanet)
+
+## Inference sample 
+![image](https://user-images.githubusercontent.com/79160507/131089959-3bba7885-e7a5-4250-b5b6-050fa74fa9f6.png)
 
 
 
